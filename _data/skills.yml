@@ -6,10 +6,10 @@ languages:
   - item: PHP
   - item: SQL/MYSQL
 
-tools:
-  - item: ShareGate
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+Technologies:
+  - item: Microsoft 365
+  - item: Azure
+  - item: G Suite
+  - item: 
+  - item: 
+  - item: 
