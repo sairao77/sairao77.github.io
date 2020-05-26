@@ -6,7 +6,7 @@ languages:
   - item: PHP
   - item: SQL/MYSQL
 
-Technologies:
+technologies:
   - item: Microsoft 365
   - item: Azure
   - item: G Suite
