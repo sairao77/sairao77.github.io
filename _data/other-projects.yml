@@ -22,16 +22,14 @@
     - thing: Hyper
 
 - name: Azure Windows Virtual Desktop
-  url: https://github.com/bchiang7/CS3200-Project
-  code: https://github.com/bchiang7/CS3200-Project
-  description: Final project for my Database Design course at Northeastern. A simple web application that allows users to filter through a database containing Lonely Planet's <a class="underline-link" href="https://www.amazon.com/Lonely-Planets-Ultimate-Travel-Places/dp/1760342777" target="_blank">Top 500 Travel Destinations</a>. Users are able to add themselves as visitors as well as leave reviews of the destinations.
+  url:
+  code:
+  description: A Virtual Desktop Infrastructure option in Azure for around 200 users around the world, had to deploy host pool in various Azure regions like US, Europe, South Africa and India.
   used:
-    - thing: Python
-    - thing: MySQL
-    - thing: Flask
-    - thing: HTML
-    - thing: CSS
-    - thing: JavaScript
+    - thing: Azure
+    - thing: Microsoft 365
+    - thing: VDI
+    - thing: Migration
 
 - name: Barracuda Cloud Backup
   url: https://bchiang7.github.io/Redesign-myNEU/
