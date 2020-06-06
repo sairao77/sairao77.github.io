@@ -1,13 +1,14 @@
 - name: Microsoft 365
-  url: #
+  url: https://www.microsoft.com/en-us/microsoft-365/
   code: #
   description: 
   used:
-    - thing: JavaScript
-    - thing: React
-    - thing: React Router
-    - thing: Axios
-    - thing: YouTube API
+    - thing: SharePoint Online
+    - thing: Exchange Online
+    - thing: OneDrive For Business
+    - thing: Microsoft Teams
+    - thing: Project Online
+    - thing: Dynamics 365
 
 - name: VMware Horizon Cloud
   url: https://bchiang7.github.io/halcyon-site/
