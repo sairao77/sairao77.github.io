@@ -6,7 +6,7 @@ url: https://sairao77.github.io/
 baseurl: ''
 email: sairao77@gmail.com
 cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
+logo: /technologist.png
 resume: /resume.pdf
 crediturl: https://bchiang7.github.io
 social:
