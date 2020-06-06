@@ -14,7 +14,7 @@ technologies:
   - item: VMware vSphere
   - item: Zendesk
 
-Applications:
+applications:
   - item: MS Office
   - item: Trend Micro Worry Free Business
   - item: 
@@ -22,7 +22,7 @@ Applications:
   - item: 
   - item:
 
-Tools:
+tools:
   - item: SharePoint Designer
   - item: Power Automate
   - item: Power Apps
