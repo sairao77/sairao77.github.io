@@ -1,35 +1,37 @@
 - name: Microsoft 365
   url: https://www.microsoft.com/en-us/microsoft-365/
   code: #
-  description: 
+  description: Implemented cloud SaaS technology by starting with Skype For Business for all users, then using SharePoint Online with custom lists and libraries, OneDrive for business for all users
   used:
     - thing: SharePoint Online
     - thing: Exchange Online
     - thing: OneDrive For Business
+    - thing: Skype for Business
     - thing: Microsoft Teams
     - thing: Project Online
     - thing: Dynamics 365
 
 - name: VMware Horizon Cloud
-  url: https://bchiang7.github.io/halcyon-site/
-  code: https://github.com/bchiang7/halcyon-site
-  description: A minimal, dark theme for Sublime Text, Atom, VS Code, and more published to <a class="underline-link" href="https://packagecontrol.io/packages/Halcyon%20Theme">Package Control</a>, <a class="underline-link" href="https://atom.io/themes/halcyon-syntax">Atom Package Manager</a>, <a class="underline-link" href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode">Visual Studio Marketplace</a>, and <a class="underline-link" href="https://www.npmjs.com/package/hyper-halcyon-theme">NPM</a>.
+  url: https://www.vmware.com/products/horizon-cloud-virtual-desktops.html
+  code: 
+  description: 
   used:
-    - thing: Gatsby
-    - thing: Sublime Text
-    - thing: Atom
-    - thing: VS Code
-    - thing: iTerm2
-    - thing: Hyper
+    - thing: VDI
+    - thing: VPN Tunnel
+    - thing: End User Computing
+    - thing: 
+    - thing: 
 
 - name: Azure Windows Virtual Desktop
-  url:
+  url: https://azure.microsoft.com/en-us/services/virtual-desktop/
   code:
-  description: A Virtual Desktop Infrastructure option in Azure for around 200 users around the world, had to deploy host pool in various Azure regions like US, Europe, South Africa and India.
+  description: A Virtual Desktop Infrastructure option in Azure was implemeted for around 200 users around the world, had to deploy host pool in various Azure regions like US, Europe, South Africa and India. This Project was a migration from
+  from VMware Horizon Cloud.
   used:
     - thing: Azure
     - thing: Microsoft 365
     - thing: VDI
+    - thing: VPN Tunnel
     - thing: Migration
 
 - name: Barracuda Cloud Backup
