@@ -23,6 +23,7 @@ applications:
   - item:
 
 tools:
+  - item: ShareGate
   - item: SharePoint Designer
   - item: Power Automate
   - item: Power Apps
