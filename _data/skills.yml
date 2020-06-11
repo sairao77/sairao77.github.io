@@ -28,4 +28,5 @@ tools:
   - item: Power Automate
   - item: Power Apps
   - item: Microsoft Forms
-  - item: 
+  - item: ADUC
+  - item: Group Policy Management (MMC)
