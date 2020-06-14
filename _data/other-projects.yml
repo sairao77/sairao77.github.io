@@ -72,4 +72,4 @@
     - thing: SSH
     - thing: SFTP
     - thing: Windows Server
-    - thing: SSH Private/Public Keys
+    - thing: SSH Key Pair
