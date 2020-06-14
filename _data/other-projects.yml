@@ -63,3 +63,13 @@
     - thing: Exchange 2013
     - thing: Exchange Online
     - thing: Exchange Hybrid
+- name: SSH/SFTP Server
+  url:
+  code: 
+  description: 
+  img:
+  used:
+    - thing: SSH
+    - thing: SFTP
+    - thing: Windows Server
+    - thing: SSH Private/Public Keys
