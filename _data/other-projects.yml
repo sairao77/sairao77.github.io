@@ -32,6 +32,9 @@
     - thing: VDI
     - thing: VPN Tunnel
     - thing: Migration
+    - thing: Powershell
+    - thing: FSLogix
+    - thing: Azure Files
 
 - name: Barracuda Cloud Backup
   url: 
