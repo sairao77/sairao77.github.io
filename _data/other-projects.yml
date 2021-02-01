@@ -11,7 +11,7 @@
     - thing: Project Online
     - thing: Dynamics 365
  
- - name: BOX
+- name: BOX
   url: https://www.box.com/
   code: #
   description: 
