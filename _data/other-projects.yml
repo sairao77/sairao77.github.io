@@ -10,6 +10,19 @@
     - thing: Microsoft Teams
     - thing: Project Online
     - thing: Dynamics 365
+ 
+ - name: BOX
+  url: https://www.box.com/
+  code: #
+  description: 
+  used:
+    - thing: 
+    - thing: 
+    - thing: 
+    - thing: 
+    - thing: 
+    - thing: 
+    - thing: 
 
 - name: VMware Horizon Cloud
   url: https://www.vmware.com/products/horizon-cloud-virtual-desktops.html
