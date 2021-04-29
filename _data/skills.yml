@@ -1,10 +1,13 @@
 languages:
   - item: PowerShell
+  - item: Javascript
+  - item: JSON
   - item: Python
   - item: HTML
   - item: CSS
   - item: PHP
   - item: SQL/MYSQL
+  
 
 technologies:
   - item: Microsoft 365
