@@ -35,6 +35,6 @@ tools:
   - item: ADUC
   - item: Group Policy Management (MMC)
 
-Development:
+developments:
   - item: SPFx Framework
   - item: Column and View Formatting
