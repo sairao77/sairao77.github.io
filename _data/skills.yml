@@ -34,3 +34,7 @@ tools:
   - item: Microsoft Forms
   - item: ADUC
   - item: Group Policy Management (MMC)
+
+Development:
+  - item: SPFx Framework
+  - item: Column and View Formatting
