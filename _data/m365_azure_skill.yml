@@ -1,1 +1,12 @@
+Azure:
+  - item: Privileged Identity Management
+  - item: Azure AD
 
+Microsoft 365:
+  - item: SharePoint & OneDrive
+  - item: Teams (including Telephony)
+  - item: Exchange
+  - item: Power Apps
+  - item: Power Automate
+  - item: Power BI
+  - item: Bookings
