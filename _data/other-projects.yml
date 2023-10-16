@@ -1,91 +1,35 @@
 - name: Microsoft 365
-  url: https://www.microsoft.com/en-us/microsoft-365/
+  url: https://www.microsoft.com/en-us/microsoft-365/enterprise
   code: #
-  description: Implemented cloud SaaS technology by starting with Skype For Business for all users, then using SharePoint Online with custom lists and libraries, OneDrive for business for all users
+  description: Configured and maintainted Microsoft 365 tenants for various organizations, started by architecting the tenant for the organization needs and then maintainted as per various organization governance policies
   used:
     - thing: SharePoint Online
     - thing: Exchange Online
-    - thing: OneDrive For Business
-    - thing: Skype for Business
     - thing: Microsoft Teams
-    - thing: Project Online
-    - thing: Dynamics 365
+    - thing: Power Platform
+    - thing: SPFx
+    - thing: PnP
+    - thing: Graph and REST API
+    - thing: Security and Compliance
  
 - name: BOX
   url: https://www.box.com/
   code: #
-  description: 
+  description: Administered setup, supported everyday requests from end users, managed regular updates to the application, and performed periodic reviews to make sure it is GxP compliant as per life sciences industry standards
   used:
-    - thing: 
-    - thing: 
-    - thing: 
-    - thing: 
-    - thing: 
-    - thing: 
-    - thing: 
+    - thing: GxP
+    - thing: Security & Compliance
+    - thing: Box Relay
+    - thing: E-signature
+    - thing: Collaboration
 
-- name: VMware Horizon Cloud
-  url: https://www.vmware.com/products/horizon-cloud-virtual-desktops.html
-  code: 
-  description: 
+- name: Azure
+  url: https://azure.microsoft.com/en-us
+  code: #
+  description: Created VDI for remote users, automated microsoft 365 admin tasks with Functions, supported applications developers by creating infrastructure using computer and app service features.
   used:
-    - thing: VDI
-    - thing: VPN Tunnel
-    - thing: End User Computing
-    - thing: 
-    - thing: 
-
-- name: Azure Windows Virtual Desktop
-  url: https://azure.microsoft.com/en-us/services/virtual-desktop/
-  code:
-  description: A Virtual Desktop Infrastructure option in Azure was implemeted for around 200 users around the world, had to deploy host pool in various Azure regions like US, Europe, South Africa and India. This Project was a migration from VMware Horizon Cloud.
-  used:
-    - thing: Azure
-    - thing: Microsoft 365
-    - thing: VDI
-    - thing: VPN Tunnel
-    - thing: Migration
-    - thing: Powershell
-    - thing: FSLogix
-    - thing: Azure Files
-
-- name: Barracuda Cloud Backup
-  url: 
-  code: 
-  description: 
-  used:
-    - thing: 
-    - thing: 
-    - thing: 
-    - thing: 
-
-- name: SharePoint Cloud Migration
-  url: 
-  code: 
-  description: Migrated over 100,000 documents from various lists and libraries in On-Premises SharePoint 2003, 2007 and 2010 environments to SharePoint Online using ShareGate
-  used:
-    - thing: ShareGate
-    - thing: SharePoint Online
-    - thing: SharePoint 2003, 2007, 2010
-    - thing: PowerShell
-    - thing: SharePoint CSOM
-
-- name: Exchange Cloud Migration (on-going)
-  url:
-  code: 
-  description: Migrating over 500 mailboxes from Exchange 2013 On-Premises environment to Exchange Online
-  img:
-  used:
-    - thing: Exchange 2013
-    - thing: Exchange Online
-    - thing: Exchange Hybrid
-- name: SSH/SFTP Server
-  url:
-  code: 
-  description: 
-  img:
-  used:
-    - thing: SSH
-    - thing: SFTP
-    - thing: Windows Server
-    - thing: SSH Key Pair
+    - thing: Compute
+    - thing: Virtual Desktop
+    - thing: App Services
+    - thing: Functions
+    - thing: Storage
