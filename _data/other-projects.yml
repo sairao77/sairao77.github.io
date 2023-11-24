@@ -12,16 +12,16 @@
     - thing: Graph and REST API
     - thing: Security and Compliance
  
-- name: BOX
-  url: https://www.box.com/
-  code: #
-  description: Administered setup, supported everyday requests from end users, managed regular updates to the application, and performed periodic reviews to make sure it is GxP compliant as per life sciences industry standards
+- name: SharePoint Framwork (SPFx)
+  url: https://learn.microsoft.com/en-us/sharepoint/dev/
+  code: https://github.com/sairao77/SPFx
+  description: Develop custom solutions and deploy them in SharePoint using SharePoint Framework (SPFx)
   used:
-    - thing: GxP
-    - thing: Security & Compliance
-    - thing: Box Relay
-    - thing: E-signature
-    - thing: Collaboration
+    - thing: Adaptive Card Extensions
+    - thing: WebParts
+    - thing: Extensions
+    - thing: Typescript
+    - thing: React
 
 - name: Azure
   url: https://azure.microsoft.com/en-us
@@ -33,3 +33,14 @@
     - thing: App Services
     - thing: Functions
     - thing: Storage
+
+- name: BOX
+  url: https://www.box.com/
+  code: #
+  description: Administered setup, supported everyday requests from end users, managed regular updates to the application, and performed periodic reviews to make sure it is GxP compliant as per life sciences industry standards
+  used:
+    - thing: GxP
+    - thing: Security & Compliance
+    - thing: Box Relay
+    - thing: E-signature
+    - thing: Collaboration

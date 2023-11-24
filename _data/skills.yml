@@ -1,6 +1,7 @@
 languages:
   - item: PowerShell
   - item: Javascript
+  - item: Typescript
   - item: JSON
   - item: Python
   - item: HTML
@@ -30,6 +31,5 @@ tools:
   - item: Power Apps
 
 developments:
-  - item: SPFx Framework
-  - item: Microsoft Graph API
-  - item: Column and View Formatting
+  - item: SharePoint Framework (SPFx)
+  - item: React
